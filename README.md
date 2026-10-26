@@ -1,6 +1,6 @@
 # Sistem Manajemen Kebun Binatang (Tugas PBO)
 
-**Subject forum:** `3D_NIM1_NIM2`  |  **Anggota:** Nama1 (NIM1), Nama2 (NIM2)
+**Subject forum:** `3D_F1D02510006_F1D02510099`  |  **Anggota:** Dian Irawati (F1D02510006), Yoja Asri Pravida (F1D02510099)
 
 ## Kasus
 Kebun binatang punya beberapa hewan. Semua hewan punya nama, berat, suara, dan kebutuhan pakan
